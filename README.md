@@ -6,9 +6,6 @@
 
 <p align="left"> <img src="https://github.com/nayeemtalukder1/image/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(1).png" alt="nayeem" /> </p>
 
-<p align="center">
-  <img src="https://i.ibb.co.com/7xxBh5mM/Github-banner.png" width="100%" alt="banner"/>
-</p>
 
 ## 👋 About Me
 
